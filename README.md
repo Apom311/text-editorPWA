@@ -2,7 +2,7 @@
 
 ## Description
 
-    Just Another Text Editor
+    Just Another Text Editor, a code editor that functions on a single page following PWA criteria, it can also be downloaded and works offline!
 
 ## Table of Contents
 
@@ -30,6 +30,8 @@
     Example images and live page
 
 ![example](./assets/JATE-livepage.png)
+
+live page can be found https://safe-taiga-47095.herokuapp.com/
 
 ## Questions
 
